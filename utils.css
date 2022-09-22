@@ -1,0 +1,28 @@
+.hover{
+    cursor: pointer;
+}
+.upper{
+    text-transform: uppercase;
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+
+.bold{
+    font-weight: bolder;
+}
+.bolder{
+    font-weight: 1000;
+}
+.category ul li{
+    list-style: none;
+}
+.align-center{
+    align-items: center;
+}
+.flex-col{
+    flex-direction: column;
+}
